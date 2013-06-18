@@ -2,6 +2,11 @@
 
 	class Database {
 
+		private db_host = '';
+		private db_user = '';
+		private db_pass = '';
+		private db_name = '';
+
 		// Connect to the database.
 		public function connect() { }
 
