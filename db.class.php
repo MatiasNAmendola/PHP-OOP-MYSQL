@@ -4,9 +4,9 @@
 
 		// Variables for MYSQL Database
 		private $db_host = 'localhost';
-		private $db_user = 'feedback';
-		private $db_pass = 'feedback';
-		private $db_name = 'feedback';
+		private $db_user = '';
+		private $db_pass = '';
+		private $db_name = '';
 
 		// Misc variables for other functions
 		private $dbconn = 0;
